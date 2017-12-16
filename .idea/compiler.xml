@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="AppiumIOSsetup" target="1.5" />
+      <module name="AppiumIOSsetup" target="1.8" />
       <module name="qww" target="1.5" />
     </bytecodeTargetLevel>
   </component>
